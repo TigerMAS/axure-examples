@@ -51,9 +51,17 @@
 ._文本段落 {
   text-align:left;
 }
+._图片 {
+}
 .box_1 {
 }
 .label {
   font-size:14px;
+  text-align:left;
+}
+._形状 {
+}
+._文本框 {
+  color:#000000;
   text-align:left;
 }
