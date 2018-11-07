@@ -1740,6 +1740,7 @@
   position:absolute;
   left:141px;
   top:155px;
+  visibility:hidden;
 }
 #u90_state0 {
   position:relative;
